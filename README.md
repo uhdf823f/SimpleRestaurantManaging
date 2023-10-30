@@ -1,0 +1,2 @@
+# SimpleRestaurantManaging
+一个简单的适合刚刚接触Java基本语法的新手查看的Java项目，没有涉及到数据库和前端页面设计，主要演示了简单的餐厅管理，用户图形化界面用到javax.swing和java.apt。
